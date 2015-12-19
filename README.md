@@ -1,7 +1,6 @@
 # Esrijs4-vm-ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Demo Ember app using [View Models in ArcGIS JS API 4.0beta3](https://developers.arcgis.com/javascript/beta/guide/whats-new/index.html)
 
 ## Prerequisites
 
